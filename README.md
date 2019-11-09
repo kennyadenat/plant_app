@@ -1,5 +1,7 @@
 # TF Lite Android App
 
+## Plant Crop and Disease Recognition App for Farmers
+
 ## Building from Source with Bazel
 
 1. Follow the [Bazel steps for the TF Demo App](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android#bazel):
