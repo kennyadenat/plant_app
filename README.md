@@ -1,6 +1,8 @@
 # TF Lite Android App
 
-## Plant Crop and Disease Recognition App for Farmers
+## Crop and Disease Recognition App for Farmers
+
+## Phampod Intelligent Personal Assistant for Farmers 
 
 ## Building from Source with Bazel
 
